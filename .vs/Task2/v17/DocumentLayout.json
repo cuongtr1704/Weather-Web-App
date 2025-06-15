@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2|c:\\users\\admin\\desktop\\workspace\\splus-software\\task2-14_06_2025\\task2\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2|solutionrelative:task2\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\task2\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|solutionrelative:task2\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2|c:\\users\\admin\\desktop\\workspace\\splus-software\\task2-14_06_2025\\task2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2|solutionrelative:task2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\task2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|solutionrelative:task2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\task2\\account\\register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|solutionrelative:task2\\account\\register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\task2\\account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBE2142E-FFB2-6434-663C-24299158B43A}|C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Task2|solutionrelative:task2\\account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Default.aspx",
+              "RelativeDocumentMoniker": "Task2\\Default.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Default.aspx",
+              "RelativeToolTip": "Task2\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-14T04:17:44.069Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Default.aspx.vb",
+              "RelativeDocumentMoniker": "Task2\\Default.aspx.vb",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Default.aspx.vb",
+              "RelativeToolTip": "Task2\\Default.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T06:05:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Default.aspx.vb",
+              "RelativeDocumentMoniker": "Task2\\Default.aspx.vb",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Default.aspx.vb",
+              "RelativeToolTip": "Task2\\Default.aspx.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-14T04:18:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Account\\Register.aspx.vb",
+              "RelativeDocumentMoniker": "Task2\\Account\\Register.aspx.vb",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Account\\Register.aspx.vb",
+              "RelativeToolTip": "Task2\\Account\\Register.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-14T08:48:11.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Account\\Register.aspx",
+              "RelativeDocumentMoniker": "Task2\\Account\\Register.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Account\\Register.aspx",
+              "RelativeToolTip": "Task2\\Account\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-14T08:48:11.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Site.master",
+              "RelativeDocumentMoniker": "Task2\\Site.master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Workspace\\SPLUS-SOFTWARE\\Task2-14_06_2025\\Task2\\Site.master",
+              "RelativeToolTip": "Task2\\Site.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-14T05:27:42.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
