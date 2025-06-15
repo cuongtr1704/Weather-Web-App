@@ -28,9 +28,8 @@ This project is a simple weather information web application built using **VB.NE
    ```
 2. Open the project in Visual Studio
 3. Sign up at [OpenWeatherMap](https://openweathermap.org/api) and **get an API key**.
-4. Open the code-behind file (`Default.aspx.vb`) and replace:
+4. Open the code-behind file (`Default.aspx.vb`) and replace "YOUR_API_KEY" with your actual API key.
    ```vb
     Dim apiKey As String = "YOUR_API_KEY" 
    ```
-   with your actual API key.
 5. Press F5 or click Start Debugging to launch the app in your browser.
